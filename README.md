@@ -22,6 +22,9 @@ Eu sou o Paulo Matheus, sou um Programador Frond End, atualmente estou aprendend
   
   <br>
   <br>
+  <br>
+  <br>
+  <br>
   
   ![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=paulllomatheus&show_icons=true&theme=chartreuse-dark)
  
