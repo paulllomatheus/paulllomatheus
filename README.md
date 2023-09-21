@@ -1,4 +1,4 @@
-### Hi there 👋:rocket:
+### Hi there! 👋:rocket:
 
 Eu sou o Paulo Matheus, sou um Desenvolvedor Full Stack, atualmente estou aprendendo e criando projetos com:
 <br>
